@@ -1,15 +1,14 @@
 #<b>bbconsole</b>
 ============
-Linux console for BlueBasic (BASIC interpreter for CC2540 and CC2541 Bluetooth LE chips).
+Linux console for BlueBasic (BASIC interpreter for CC2540 and CC2541 Bluetooth LE chips).  
 See https://github.com/aanon4/BlueBasic for more information.
 
-##Usage:
+###Usage:
 
 <b>./bbconsole btaddress</b>  
-e.g.  
-./bbconsole B4:99:4C:21:5A:97  
+e.g.  ./bbconsole B4:99:4C:21:5A:97  
 
-Keep all sources at the same level:
+Keep all sources at the same level:  
 git/BlueBasic  
 git/bbconsole  
 git/BlueBasic-loader  
@@ -23,7 +22,7 @@ cd bluez
 make  
 
 
-##On the RaspberryPi, you will also need to install some dependencies:
+###On the RaspberryPi, you will also need to install some dependencies:
   
 sudo apt-get install automake  
 sudo apt-get install libtool  
