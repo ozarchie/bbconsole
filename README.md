@@ -1,7 +1,7 @@
 #<b>bbconsole</b>
 ============
 Linux console for BlueBasic (BASIC interpreter for CC2540 and CC2541 Bluetooth LE chips).  
-See https://github.com/aanon4/BlueBasic for more information.
+See https://github.com/aanon4/BlueBasic for more information.  
 See https://github.com/ozarchie/BlueBasic-loader/wiki for an update Wiki, examples.  
 See https://github.com/ozarchie/BlueBasic-loader for a slower loader compatible with Chinese clones.  
 
